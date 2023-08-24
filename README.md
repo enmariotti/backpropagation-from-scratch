@@ -1,3 +1,3 @@
-# linear-kalman-filter
+# backpropagation-from-scratch
 
-A simple implementation of a linear kalman filter for state estimation of a 2D vehicule.
+Backpropagation algorithm made from scratch, and applications. 
