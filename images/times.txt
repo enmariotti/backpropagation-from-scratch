@@ -1,0 +1,7 @@
+3: 395.98042 seconds
+4: 415.17577 seconds
+5: 375.91567 seconds
+6a: 0.11525 seconds
+6b: 0.07066 seconds
+7: 0.46661 seconds 
+8: 443.31195 seconds
